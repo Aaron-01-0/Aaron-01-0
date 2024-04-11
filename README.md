@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Aaron-01-0/Aaron-01-0/Items/facts.gif width="30px">, I'm Raj</h1>
+<h1 align="center">Hi <img src="https://github.com/Aaron-01-0/Aaron-01-0/main/Items/facts.gif width="30px">, I'm Raj</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
 <!-- View Count... -->
@@ -15,7 +15,7 @@
 <br>
 
 <!--<li> 💻 First <b>Deployed Spring Boot Web Application</b>: <a href="https://dictionaryapp.azurewebsites.net">Click here</a> to launch the application.</li> -->
-<li><b>A Night Owl   <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/owl2.png" width="20px"></b></li>
+<li><b>A Night Owl   <img src="https://github.com/Aaron-01-0/Aaron-01-0/main/Items/owl2.png" width="20px"></b></li>
 <li>🎮 Entertainment : Watches sometimes <b>Netflix</b> and plays <b>Valorant</b></li>
 <li>⚡ Fun fact : <b>Adapting Things Fast</b></li>
 <li>🔭 Currently working on <b>Store-Management-System </b>for a school Project</li>
