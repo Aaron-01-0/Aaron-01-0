@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Aaron-01-0/Aaron-01-0/main/Items/facts.gif width="30px">, I'm Raj</h1>
+<h1 align="center">Hi <img src="https://github.com/Aaron-01-0/Items/facts.gif width="30px">, I'm Raj</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
 <!-- View Count... -->
