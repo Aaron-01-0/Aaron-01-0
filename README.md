@@ -9,7 +9,7 @@
   </div>
   <br>
   <div align ="left">
-    <p><b>I am RAJ VERMA, a normal student. I am a quick learner and also i love to learn new thing and adpat those things qucikly. </p>
+    <p><b>I am RAJ VERMA, an undergraduate student. I am a quick learner and also i love to learn new thing and adpat those things qucikly. </p>
     </b>
 </div><br>
 <br>
