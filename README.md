@@ -18,8 +18,8 @@
 <li><b>Night is the key to success    <img src="https://github.com/Aaron-01-0/Aaron-01-0/blob/main/Items/html.gif" width="20px"></b></li>
 <li>🎮 Entertainment : Watches sometimes <b>Netflix</b> and plays <b>Valorant</b></li>
 <li>⚡ Fun fact : <b>Adapting Things Fast</b></li>
-<li>🔭 Currently working on <b>Store-Management-System </b>for a school Project</li>
-<li>🌱 I’m currently learning <b>Data Manipulation</b></li>
+<li>🔭 Currently working on <b> Self Healing Compiler </b>for Milestone Project</li>
+<li>🌱 I’m currently learning <b>Data Science</b></li>
 <li>👨‍💻 All of my projects are available <a href="https://github.com/Aaron-01-0?tab=repositories">here</a></li>
 <li>📫 How to reach me : <b>raj00.mkv@gmail.com</b></li>
 <h3 align="center"> </h3>
