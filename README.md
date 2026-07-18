@@ -81,7 +81,7 @@ raj00.mkv@gmail.com
 
 💼 **LinkedIn**
 
-(Your LinkedIn)
+https://www.linkedin.com/in/raj-verma-a99823307/
 
 🌐 **Portfolio**
 
